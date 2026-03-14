@@ -45,8 +45,8 @@ DOG-C.../
 
 <table>
   <tr>
-    <td><img src="assets/Screenshot 2026-03-14 211455.png" alt="Screenshot 1" width="400"/></td>
-    <td><img src="assets/Screenshot 2026-03-14 211456.png" alt="Screenshot 2" width="400"/></td>
+    <td><img src="assets/cat.png" alt="Screenshot 1" width="400"/></td>
+    <td><img src="assets/dog.png" alt="Screenshot 2" width="400"/></td>
   </tr>
   <tr>
     <td align="center">Model Output / Prediction</td>
