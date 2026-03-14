@@ -1,0 +1,22 @@
+[project]
+name = "dog-cat-classifier"
+version = "0.1.0"
+description = "A simple CNN-based classifier for dogs vs cats images"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas",
+    "numpy",
+    "matplotlib",
+    "tqdm",
+    "tensorflow",
+    "keras"
+]
+
+[tool.black]
+line-length = 88
+target-version = ["py312"]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
