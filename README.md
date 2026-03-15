@@ -2,7 +2,7 @@
 
 > A deep learning image classifier that tells apart dogs from cats with high accuracy, built with a clean ML pipeline from notebook experimentation to a production-ready Python app.
 
-![Demo Screenshot](assets/Screenshot%202026-03-14%20211455.png)
+![Demo Screenshot](cat.png)
 
 ---
 
@@ -49,8 +49,8 @@ DOG-C.../
     <td><img src="assets/dog.png" alt="Screenshot 2" width="400"/></td>
   </tr>
   <tr>
-    <td align="center">Model Output / Prediction</td>
-    <td align="center">Training Results / App UI</td>
+    <td align="center">code Result 1</td>
+    <td align="center">code Result 2</td>
   </tr>
 </table>
 
